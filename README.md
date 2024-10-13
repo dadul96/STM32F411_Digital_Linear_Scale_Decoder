@@ -1,6 +1,10 @@
 # STM32F411_Digital_Linear_Scale_Decoder
 Decoder for digital linear scale (Shahe SH2205A0633). Position values are converted to mm and displayed via serial USB prints.  
 
+![picture of test_setup](test_setup.webp)
+![picture of protocol](protocol.webp)
+![picture of console_printout](console_printout.webp)
+
 ### Folder Structure
 ```
 --STM32F411CE_WeAct_Blackpill_USB_CDC_Serial
